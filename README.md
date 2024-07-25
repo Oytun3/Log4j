@@ -1,1 +1,1 @@
-log4j.rtd adlı dosyadan logların ekran görüntülerine ulaşabilirsiniz
+log4j.rtf adlı dosyadan logların ekran görüntülerine ulaşabilirsiniz
